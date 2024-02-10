@@ -1,5 +1,9 @@
 # Technical Test Frontend Hara Anargya
 
+## Data Diri
+* Nama: Yayan Handani
+* Email: others.handani@gmail.com
+
 ## Installation
 * Fork Repo ini
 * Clone Repo ini

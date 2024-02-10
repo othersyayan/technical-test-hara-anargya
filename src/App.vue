@@ -1,7 +1,9 @@
-<script setup></script>
+<script setup>
+import DashboardLayout from './layouts/DashboardLayout.vue';
+</script>
 
 <template>
-  <div class="text-lg font-bold">Hallo Folks!</div>
+  <DashboardLayout />
 </template>
 
 <style scoped></style>
